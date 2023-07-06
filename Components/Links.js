@@ -2,7 +2,7 @@ import { Inter } from "next/font/google";
 
 const inter = Inter({ subsets: ["latin"] });
 
-export default function Links() {
+export  function Links() {
   return (
     <main>
       <div className="mb-32 grid text-center lg:mb-0 lg:grid-cols-4 lg:text-left">
