@@ -3,10 +3,10 @@ export function Header() {
   return (
     <header>
       <Link href="/">
-        <a>Index</a>
+        Index
       </Link>
       <Link href="/about">
-        <a>About</a>
+        About
       </Link>
     </header>
   );
