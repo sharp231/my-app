@@ -9,7 +9,7 @@ export default function Home() {
   return (
     <main>
       <Header />
-      <Main page="about" />
+      <Main page="about"/>
       <Footer />
     </main>
   ); 
